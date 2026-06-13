@@ -14,6 +14,7 @@ Recent
 
 
 Mail Lens: full-stack phishing email analyzer combining a 6-check deterministic rule engine with an LLM assessment. Circuit-breaker degradation keeps the app returning real results when the AI layer fails.
+
 WPI Capstone, Solutions Architect: designed a cellular-data monitoring system across 12 HVAC sites (scaling to 50+). Produced the domain model, the 2-tier Azure architecture spec, and a 4-case integration test suite the implementation team adopted as acceptance criteria.
 
 
